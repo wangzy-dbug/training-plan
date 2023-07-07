@@ -9,6 +9,7 @@
 
 - [2023-陈宁杰-C++-Primer-Chapter-1](https://github.com/ChenNingjie1218/training-plan/blob/a82fe10515c20e095f91278429fac824548cb989/cpp/ppt/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%BC%80%E5%A7%8B.pdf
 )：C/C++ I/O 缓冲区设计。
+- [[2023-李禹霖-C++-Primer-Chapter-2](https://github.com/dcdc831/CppNotes/blob/93907dc83db9044ad5d10aa66b59f28c1a92f13c/ppt/2023-%E6%9D%8E%E7%A6%B9%E9%9C%96-C%2B%2B-Primer-Chapter-2.pptx) ：变量和数据类型
 - [2023-宛浩宇-C++-Primer-Chapter-5](https://github.com/whyeinstein/ndssl_training_notes/blob/main/report/%E8%AF%AD%E5%8F%A5.pptx):Header guards and #pragma once
 
 ## B+Tree 报告
