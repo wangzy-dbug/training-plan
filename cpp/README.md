@@ -26,6 +26,7 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC1%E7%AB%A0%20%E5%BC%80%E5%A7%8B.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C1%20%E5%BC%80%E5%A7%8B.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C1%E5%BC%80%E5%A7%8B.md)
+- [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%201%20%E5%BC%80%E5%A7%8B.md)
 
 ### Chapter 2. Variables and Basic Types
 
