@@ -34,6 +34,7 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC2%E7%AB%A0%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C2%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C2%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
+- [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%202%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 
 ### Chapter 3. Strings, Vectors, and Arrays
 
