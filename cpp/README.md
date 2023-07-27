@@ -13,6 +13,7 @@
 - [2023-宛浩宇-C++-Primer-Chapter-5](https://github.com/whyeinstein/ndssl_training_notes/blob/main/report/%E8%AF%AD%E5%8F%A5.pptx)：Header guards and #pragma once
 - [2023-吴征-C++-Primer-Chapter-9](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/C9%20%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8%20Pre.md)：顺序容器
 - [2023-朱世龙-C++-Primer-Chapter-10](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)：泛型算法
+- [2023-王澳-C++-Primer-Chapter-11](https://github.com/WangAo-0/training-plan/blob/dev/cpp/C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8PPT/%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.pptx)：关联容器
 
 ## B+Tree 报告
 
