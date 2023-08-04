@@ -14,7 +14,7 @@
 - [2023-吴征-C++-Primer-Chapter-9](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/C9%20%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8%20Pre.md)：顺序容器
 - [2023-朱世龙-C++-Primer-Chapter-10](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)：泛型算法
 - [2023-王澳-C++-Primer-Chapter-11](https://github.com/WangAo-0/training-plan/blob/dev/cpp/C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8PPT/%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.pptx)：关联容器
-
+- [2023-陈宁杰-C++-Primer-Chapter-12](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/ppt/%E7%AC%AC12%E7%AB%A0%20ppt.md)：动态内存
 ## B+Tree 报告
 
 ## B+Tree 代码
@@ -76,24 +76,28 @@
 
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C8%20%E6%A0%87%E5%87%86IO%E5%BA%93.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C8IO%E5%BA%93.md)
+- [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC8%E7%AB%A0%20IO%E5%BA%93.md)
 
 ### Chapter 9. Sequential Containers
 
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C9%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8.md)
-
+- [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC9%E7%AB%A0%20%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8.md)
 
 ### Chapter 10. Generic Algorithms
 
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C10%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)
 - [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)
+- [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC10%E7%AB%A0%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)
 
 ### Chapter 11. Associative Containers
 
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.md)
+- [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC11%E7%AB%A0%20%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.md)
 
 ### Chapter 12. Dynamic Memory
 
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C12%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98.md)
+- [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC12%E7%AB%A0%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98.md)
 
 ### Chapter 13. Copy Control
 
