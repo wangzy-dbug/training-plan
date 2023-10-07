@@ -15,7 +15,7 @@
 - [2023-朱世龙-C++-Primer-Chapter-10](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)：泛型算法
 - [2023-王澳-C++-Primer-Chapter-11](https://github.com/WangAo-0/training-plan/blob/dev/cpp/C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8PPT/%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.pptx)：关联容器
 - [2023-陈宁杰-C++-Primer-Chapter-12](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/ppt/%E7%AC%AC12%E7%AB%A0%20ppt.md)：动态内存
-
+- [2023-刘芷溢-C++-Primer-Chapter-13](https://github.com/tom-jerr/Reports/blob/master/ppt/%E6%8B%B7%E8%B4%9D%E6%8E%A7%E5%88%B6.pptx)：拷贝控制
 ## B+Tree 报告
 
 ## B+Tree 代码
@@ -37,21 +37,21 @@
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C2%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C2%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%202%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
-
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/2_%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 ### Chapter 3. Strings, Vectors, and Arrays
 
 - [2023-宛浩宇](https://github.com/whyeinstein/ndssl_training_notes/blob/main/C%2B%2B/C3%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC3%E7%AB%A0%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C3%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C3%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
-  
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/3_%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%91%E9%87%8F%E6%95%B0%E7%BB%84.md)
 ### Chapter 4. Expressions
 
 - [2023-宛浩宇](https://github.com/whyeinstein/ndssl_training_notes/blob/main/C%2B%2B/C4%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC4%E7%AB%A0%20%E8%A1%A8%E8%BE%BE%E5%BC%8F%20.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C4%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C4%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
-  
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/4_%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 ### Chapter 5. Statements
 
 - [2023-宛浩宇](https://github.com/whyeinstein/ndssl_training_notes/blob/main/C%2B%2B/C5%20%E8%AF%AD%E5%8F%A5.md)
