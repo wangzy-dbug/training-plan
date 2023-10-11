@@ -81,6 +81,7 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC7%E7%AB%A0%20%E7%B1%BB.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C7%20%E7%B1%BB.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C7%E7%B1%BB.md)
+- [2023-王泽园](https://github.com/wangzy-dbug/training-plan/blob/313309f9f6224f296f70742033a76d516931c8c6/cpp/%E7%AC%AC7%E7%AB%A0.pdf)
   
 ### Chapter 8. The IO Library
 
